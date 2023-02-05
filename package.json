@@ -2,7 +2,7 @@
   "name": "3d-model-car",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://GeorgianBadita.github.io/3d-model-car",
+  "homepage": "https://github.com/lmiana/code_troopers",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
